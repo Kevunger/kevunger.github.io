@@ -193,3 +193,9 @@ body, html {
 		margin-left:0;
 	}
 }
+
+@media screen and (min-width: 1370px) {
+	.back {
+			background-size: 2560px 1600px;
+		}
+}
